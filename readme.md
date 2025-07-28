@@ -14,5 +14,5 @@ The datasets used for pretraining are also too large to upload.
 Please contact me via email if you'd like access to these as well.
 
 ### Requirements
-All experiments, *except for the German model pretraining* can be run using only the dependencies listed in the `sources/` directory.
+All experiments, *except for the German model pretraining* can be run using only the dependencies listed in the `requirements.txt` file.
 
