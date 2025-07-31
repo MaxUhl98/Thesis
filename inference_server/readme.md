@@ -63,9 +63,9 @@ Capturing batches (bs=1 avail_mem=0.86 GB): 100%|██████████|
 Example script:
 
 ```
-from utils import ConputeClient
+from utils import ComputeClient
 
-client = ComputeCLient()
+client = ComputeClient()
 model_response = client.call_llm('Das ist ein Beispiel System Prompt', 'Das ist ein Beispiel prompt')
 ```
 
